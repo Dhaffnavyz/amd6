@@ -1,6 +1,6 @@
 /**
-   * Create By THE JO BOT
-   * Base by Dika Ardnt
+   * Create By Dhafa Nazula Permadi 
+   * Base by Dhafa Nazula Permadi 
 */
 
 require('./config')
